@@ -9,8 +9,8 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'C:/Users/fgarcia/Downloads/OSS_Insert v7.step',
-/* time_stamp */ '2021-03-08T08:19:08-06:00',
+/* name */ 'C:/Users/fgarcia/Downloads/OSS_Insert v8.step',
+/* time_stamp */ '2021-03-18T09:19:34-05:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v18.1',
@@ -1302,15 +1302,15 @@ SOLID_ANGLE_UNIT()
 #1253=PRODUCT_DEFINITION_SHAPE('',$,#1256);
 #1254=SHAPE_REPRESENTATION('',(#734),#1244);
 #1255=PRODUCT_DEFINITION_CONTEXT('part definition',#1260,'design');
-#1256=PRODUCT_DEFINITION('OSS','OSS v7',#1257,#1255);
+#1256=PRODUCT_DEFINITION('OSS','OSS v8',#1257,#1255);
 #1257=PRODUCT_DEFINITION_FORMATION('',$,#1262);
-#1258=PRODUCT_RELATED_PRODUCT_CATEGORY('OSS v7','OSS v7',(#1262));
+#1258=PRODUCT_RELATED_PRODUCT_CATEGORY('OSS v8','OSS v8',(#1262));
 #1259=APPLICATION_PROTOCOL_DEFINITION('international standard',
 'automotive_design',2009,#1260);
 #1260=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #1261=PRODUCT_CONTEXT('part definition',#1260,'mechanical');
-#1262=PRODUCT('OSS','OSS v7',$,(#1261));
+#1262=PRODUCT('OSS','OSS v8',$,(#1261));
 #1263=PRESENTATION_STYLE_ASSIGNMENT((#1264));
 #1264=SURFACE_STYLE_USAGE(.BOTH.,#1265);
 #1265=SURFACE_SIDE_STYLE('',(#1266));
